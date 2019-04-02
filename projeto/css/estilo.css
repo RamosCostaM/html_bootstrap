@@ -1,0 +1,45 @@
+header{
+    background-color: #ce1141;
+    height: 150px;
+    color: white;
+}
+
+footer{
+    background-color: #ce1141;
+    color: black;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+div.faixa{
+    background-color: black;
+    height:30px;
+}
+
+img.logo{
+    width: 130px;
+    margin-left: 140px;
+}
+
+div.titulo{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section.imagem{
+    background-color: black;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+section.noticia {
+    margin-top: 2%;
+}
+
+img.rede-social {
+    width: 20%;
+}
